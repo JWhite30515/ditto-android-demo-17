@@ -11,11 +11,11 @@
     <string name="ct_variant">Account settings</string>
     <string name="ct_variant_replace">Notification settings</string>
     <string name="ct_variant_same">Log out</string>
-    <string name="ct_variant_drop">Send money</string>
+    <string name="ct_variant_drop">3Send money444444</string>
     <string name="ct_multi_site_a">Continue</string>
     <string name="ct_multi_site_b">Continue</string>
     <plurals name="ct_plural_add">
-        <item quantity="one">New alert</item>
+        <item quantity="one">New alert35444444</item>
         <item quantity="other">New alerts</item>
     </plurals>
     <plurals name="ct_plural_replace">
